@@ -1,8 +1,9 @@
+![](https://img.shields.io/github/stars/Harazu?style=social) 
 - 👋 Hi, I’m @Harazu
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning GCM
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me dm me
+- 📫 How to reach me: dm me
 
 <!---
 Harazu/Harazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
